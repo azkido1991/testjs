@@ -3,7 +3,7 @@
 #### _Powered By Next.js 14_
 
 Full stack, feature rich, modern blogging
-web application built with Next.js 14
+web application built with Next.js 14 testing
 
 ## Table of Contents
 
